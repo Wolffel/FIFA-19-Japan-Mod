@@ -2,7 +2,7 @@
 Japan National Team Mod for FIFA 19
 
 
-Only tested with the original version of the game (not CPY or other cracked versions). The real name of Boca Juniors will appear in Spanish Latino, Castellano and English USA languages.
+Only tested with the original version of the game (not CPY or other cracked versions). The real name of Japan will appear in Spanish Latino, Castellano and English USA languages.
 
 You will need to edit your own database language by DB master with frosty editor. There is a tutorial here: 
 
