@@ -23,7 +23,7 @@ Steps to install the mod:
 2.	Install the mod manager (you can download also the editor if you want to make your own mods).
 3.	Download now the FIFA 19 Japan mod from this repository. (clone or download green button in this page or go to releases and download the .rar file).
 4.  Download squads file from this site and place the squad file in your FIFA 19 settings directory 
-(C:\Users\"YourName"\Documents\FIFA 19\settings)
+(C:\Users\'YourName'\Documents\FIFA 19\settings)
 5.	Open the mod manager folder, then execute the frosty mod manager.exe
 6.	You will have a new window with the name of the mod manager and version. Search under the window a tab that says import mods.
 7.	Select the .rar file that you have downloaded (don't extract the mod, just select the .rar and import the mod).
